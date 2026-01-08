@@ -79,6 +79,29 @@ All datasets are loaded from a Kaggle data source and processed independently be
 
 ---
 
+## 📊 Results & Observations
+
+The exploratory analysis reveals several important patterns in Electric Vehicle (EV) adoption:
+
+### 1. EV Sales Distribution
+- Initial visualizations from the enhanced EV dataset show a **non-uniform distribution of sales**, indicating varying adoption levels across categories.
+- The distribution suggests early concentration followed by broader market penetration.
+
+### 2. Growth Rate Analysis
+- Growth rate plots indicate a **clear acceleration in EV adoption in recent years**.
+- Periods of rapid growth suggest strong influence from policy incentives, technological improvements, and infrastructure expansion.
+
+### 3. Yearly Sales Trends
+- Year-wise trend visualizations demonstrate a **consistently increasing trajectory** in EV sales.
+- Certain years exhibit sharper increases, highlighting phases of accelerated market acceptance.
+
+### 4. Combined Insights Dashboard
+- The final dashboard consolidates findings from all datasets, providing a **holistic view of EV market evolution**.
+- Cross-dataset comparison strengthens confidence in observed trends and reduces single-source bias.
+
+Overall, the results confirm that EV adoption is **steadily increasing with signs of exponential growth**, positioning electric vehicles as a dominant component of future transportation systems.
+
+
 ## 📊 Key Insights (from Analysis)
 
 - EV sales demonstrate a **consistent upward trend over time**
